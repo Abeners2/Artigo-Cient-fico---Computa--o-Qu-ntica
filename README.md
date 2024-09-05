@@ -37,15 +37,6 @@ Aqui estão alguns dos principais recursos utilizados na pesquisa e no desenvolv
 - [Grover's Algorithm and Quantum Search](https://arxiv.org/pdf/quant-ph/9605043.pdf)
 - [Quantum Information Science and Technology Roadmap - QIST](https://qist.lanl.gov/qcomp_map.shtml)
 
-### Como Contribuir
-Contribuições são bem-vindas! Se você deseja melhorar este projeto, siga estas etapas:
-
-1. Faça um fork do repositório.
-2. Crie um branch com a sua feature: `git checkout -b Sua feature`.
-3. Faça commit das suas mudanças: `git commit -m 'Sua feature'`.
-4. Envie para o branch: `git push origin feature?`.
-5. Crie um novo Pull Request.
-
 ### Contato
 Se você tiver dúvidas ou sugestões, fique à vontade para abrir uma issue ou entrar em contato:
 
