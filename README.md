@@ -51,7 +51,7 @@ Se você tiver dúvidas ou sugestões, fique à vontade para abrir uma issue ou 
 
 - Nome: **Abner Nogueira**
 - Email: abnerlucassantoss2@gmail.com
-- LinkedIn: (www.linkedin.com/in/abner-nogueira-8581b8314)
+- LinkedIn: [ ](www.linkedin.com/in/abner-nogueira-8581b8314)
 
 ### Licença
 Este projeto está licenciado sob os termos da [MIT License](LICENSE).
