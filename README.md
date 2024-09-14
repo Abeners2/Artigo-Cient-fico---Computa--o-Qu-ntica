@@ -25,7 +25,7 @@ O repositório contém os seguintes arquivos:
 - `README.md`: Este arquivo que você está lendo.
   
 ### Como Visualizar
-1. Acesse o artigo publicado via GitHub Pages [aqui](URL_DO_SEU_GITHUB_PAGES).
+1. Acesse o artigo publicado via GitHub Pages [aqui](https://abeners2.github.io/ArtigoCientifico-Computacao-Quantica/).
 2. Você também pode clonar este repositório localmente e abrir o arquivo `index.html` em um navegador para visualizar o conteúdo.
 
 ### Links Úteis (Bibliografia)
